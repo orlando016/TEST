@@ -1,1 +1,2 @@
-WHATUP
+
+Im adding to the readme
